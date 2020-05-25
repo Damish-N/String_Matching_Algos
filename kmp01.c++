@@ -58,7 +58,7 @@ int Prefix_Function(string text , string pat,int pie[],int p){
 				if (k!=0)
 				{
 					// k=0;
-					k=pie[k-1]
+					k=pie[k-1];
 
 					//cout<<k<<endl;
 					// pie[j]=k;
